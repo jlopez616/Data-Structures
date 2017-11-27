@@ -1,0 +1,13 @@
+{
+  "name": "ajax-starter",
+  "version": "1.0.0",
+  "description": "A sample page with Ajax features.",
+  "scripts": {
+    "start": "superstatic"
+  },
+  "repository": "https://github.com/dondi/GRNsight",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "superstatic": "^5.0.1"
+  }
+}
