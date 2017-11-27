@@ -1,6 +1,3 @@
-/* This is JavaScript code: it tells the web browser what to do when controls are clicked.
-   Part of what web browsers can do today is to make network connections to other web servers;
-   that’s what this particular example does. */
 (() => {
   let showLoadingMessage = whichMessage => $(".loading." + whichMessage).removeClass("d-none");
   let hideLoadingMessage = whichMessage => $(".loading." + whichMessage).addClass("d-none");
